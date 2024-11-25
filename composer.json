@@ -1,0 +1,20 @@
+{
+    "name": "vpyzhyk/study_package",
+    "description": "Study package",
+    "type": "libary",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vpyzhyk\\StudyPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vital Pyzhyk",
+            "email": "pyzhykvv@gmail.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
